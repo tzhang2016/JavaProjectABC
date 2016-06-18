@@ -1,6 +1,6 @@
 
 public class Test {
 	Test(){
-	     int x=2;
+	     int x=100;
 	}
 }
